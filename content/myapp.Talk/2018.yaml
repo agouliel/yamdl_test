@@ -1,0 +1,15 @@
+- conference: Electromagnetic Field
+  title: "Taming Terrain: Sculping geoscapes from LiDAR"
+  when: 2018-08-31
+  city: Ledbury
+  country: GB
+  length: 30
+  slides_url: https://speakerdeck.com/andrewgodwin/taming-terrain-sculpting-geoscapes-with-lidar
+  video_url: https://www.youtube.com/watch?v=Qg0hvqDa3wk
+
+- conference: PyCon ES
+  title: Taking Django Async
+  when: 2018-10-06
+  city: "Málaga"
+  country: ES
+  length: 30
